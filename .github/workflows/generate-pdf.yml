@@ -24,4 +24,4 @@ jobs:
 
       - name: Generate PDF
         run: |
-          node generate-pdf.js https://e-liouta.netlify.app/
+          node generate-pdf.js https://eliouta.netlify.app/
