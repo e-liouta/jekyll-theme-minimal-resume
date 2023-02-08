@@ -16,9 +16,9 @@
     "gulp-imagemin": "^4.1.0",
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^5.1.0",
-    "gulp-uglify": "^3.0.2"
+    "gulp-uglify": "^3.0.2",
+    "puppeteer": "^19.6.3"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/e-liouta/jekyll-theme-minimal-resume.git"
