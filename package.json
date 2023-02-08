@@ -1,5 +1,5 @@
 {
-  "name": "jekyll-theme-minimal-resume",
+  "name": "1.0.0",
   "version": "1.0.0",
   "description": "This is a simple Jekyll theme for a minimal resume website.",
   "main": "index.js",
@@ -17,5 +17,14 @@
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-liouta/jekyll-theme-minimal-resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/e-liouta/jekyll-theme-minimal-resume/issues"
+  },
+  "homepage": "https://github.com/e-liouta/jekyll-theme-minimal-resume#readme"
 }
